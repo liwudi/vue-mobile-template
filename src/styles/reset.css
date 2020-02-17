@@ -1,0 +1,20 @@
+*,body,h1,h2,h3,h4,h5,h6,hr,p,blockquote,dl,dt,dd,ul,ol,li,pre,form,fieldset,legend,button,input,textarea,th,td{margin:0;padding:0;font-family:"PingFangSC","Arial","Microsoft YaHei",sans-serif;}
+*,body{
+  font-family:"PingFangSC","Arial","Microsoft YaHei",sans-serif;
+  font-size: 14px;
+}
+input,button{box-shadow:none;}
+ul{list-style:none;}
+.clear{clear:both;}
+/*body{background-color: #eeeeee;}*/
+img{display:block;border:none;}
+button{
+  border: none;
+  cursor: pointer;
+}
+a, a:focus, a:hover{
+  text-decoration: none;
+  color:#fff;
+}
+
+input[type=file]{ display: none }

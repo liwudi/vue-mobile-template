@@ -68,7 +68,7 @@
 
 <script>
     import { login } from '@/services/indexService.js';
-    import { SETLOANLIST, SETUSERINFO } from '@/store/type.js';
+    // import { SETLOANLIST, SETUSERINFO } from '@/store/type.js';
     export default {
         name: "login",
         data: function () {
